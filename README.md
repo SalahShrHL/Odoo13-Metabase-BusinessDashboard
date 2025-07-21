@@ -40,9 +40,8 @@ Each folder includes:
 
 Preview screenshots and charts are available in each domain folder. Example:
 
-- ![Sample: Purchases by Vendor](./purchases/purchases_by_vendor.png)
-- ![Sample: Stock Levels](./inventory/stock_levels.png)
-- ![Sample: Monthly Sales](./sales/monthly_sales.png)
+- ![Sample: Sales dashboard](Sample 1.JPG)
+
 
 (These are just examples — full visuals and documentation are in the respective folders.)
 
