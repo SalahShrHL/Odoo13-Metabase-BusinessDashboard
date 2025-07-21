@@ -40,7 +40,7 @@ Each folder includes:
 
 Preview screenshots and charts are available in each domain folder. Example:
 
-- ![Sample: Sales dashboard](Sample 1.JPG)
+- ![Sample: Sales dashboard](./Sample 1.JPG)
 
 
 (These are just examples — full visuals and documentation are in the respective folders.)
@@ -52,8 +52,7 @@ Preview screenshots and charts are available in each domain folder. Example:
 **Salah Belhi**  
 Data & Analytics Developer  
 📍 Algeria  
-🔗 [GitHub](https://github.com/YOUR_USERNAME)  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+🔗 [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/salah-eddine-belhi-484154251/))
 
 ## 📝 License
 
