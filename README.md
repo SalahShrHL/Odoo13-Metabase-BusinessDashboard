@@ -41,6 +41,8 @@ Each folder includes:
 Preview screenshots and charts are available in each domain folder. Example:
 
 ![Sample: Sales dashboard](./sample_sales_dashboard.JPG)
+![Sample: purchases dashboard](./sample_sales_dashboard2.JPG)
+![Sample: purchases dashboard2](./sample_sales_dashboard2.JPG)
 
 (These are just examples — full visuals and documentation are in the respective folders.)
 
