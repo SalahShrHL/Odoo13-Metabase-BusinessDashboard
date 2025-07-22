@@ -40,3 +40,6 @@ This query tracks stock level changes (in/out movements) by product over customi
 ##Filter Usage:
 {{date}} - Filter by stock move date range 
 {{grouping}} - Set time grouping interval (e.g., 'day', 'week', 'month', 'quarter')
+
+## Purpose: 
+Inventory movement analysis to track stock flow patterns, monitor consumption rates, and identify usage trends for inventory planning and forecasting.
