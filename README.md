@@ -45,18 +45,3 @@ Preview screenshots and charts are available in each domain folder. Example:
 ![Sample: purchases dashboard2](./sample_sales_dashboard3.JPG)
 
 (These are just examples — full visuals and documentation are in the respective folders.)
-
----
-
-## 👤 Author
-
-**Salah Belhi**  
-Data & Analytics Developer  
-📍 Algeria  
-🔗 [LinkedIn]([https://www.linkedin.com/in/salah-eddine-belhi-484154251/])
-## 📝 License
-
-This project is shared under the **MIT License** — feel free to explore, reuse, or build upon it.
-
-
-
