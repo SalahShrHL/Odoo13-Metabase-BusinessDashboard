@@ -8,18 +8,6 @@ This project presents a complete Business Intelligence (BI) dashboard solution b
 - **Sales**
 
 All SQL queries, visualizations, and documentation are original and reflect real business needs.
-
----
-
-## 📊 Dashboard Domains
-
-| Area           | Description                                                    |
-|----------------|----------------------------------------------------------------|
-| [Sales](./sales/)             | Review sales performance, customer segmentation, and revenue trends       |
-| [Purchases](./purchases/)     | Analyze vendor performance, spending trends, and budget tracking |
-| [Inventory](./inventory/)     | Track stock levels, turnover rates, and stock-in/stock-out movements      |
-| [Manufacturing](./manufacturing/) | Monitor production output, efficiency, and material consumption            |
-
 Each folder includes:
 - The **SQL queries** used in Metabase
 - A **screenshot** of the resulting chart
